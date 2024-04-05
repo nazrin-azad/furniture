@@ -36,7 +36,7 @@
       border-color: var(--brown);
   }
   .main{
-      background-image: url('https://png.pngtree.com/background/20230625/original/pngtree-stylish-dining-room-with-6-chairs-a-fusion-of-wood-and-picture-image_4053674.jpg');
+      background-image: url('./images/37e51f94f9f40d27a283b027763c76f72e2b4883.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       /* height: 120vh; */
@@ -147,6 +147,6 @@
       bottom: 0px;
   }
   #footer{
-      background-color: rgb(46, 46, 46);
+      background-color: rgb(85, 83, 83)
   }
   
